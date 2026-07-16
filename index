@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DHINESH KARTHIK M | Full Stack Developer</title>
+
+  <meta name="description" content="Professional portfolio of Dhinesh Karthik M - Full Stack Developer building modern websites for businesses.">
+
+  <link rel="stylesheet" href="style.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+  <script src="https://kit.fontawesome.com/6d2ea823d0.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+<nav>
+
+<div class="logo">
+
+DK
+
+</div>
+
+<ul>
+
+<li><a href="#home">Home</a></li>
+
+<li><a href="#about">About</a></li>
+
+<li><a href="#services">Services</a></li>
+
+<li><a href="#projects">Projects</a></li>
+
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+<a href="#contact" class="hire-btn">Hire Me</a>
+
+</nav>
+
+<section class="hero" id="home">
+
+<div class="hero-left">
+
+<h4>Hello, I'm</h4>
+
+<h1>DHINESH KARTHIK M</h1>
+
+<h2>Full Stack Developer</h2>
+
+<p>
+
+I create modern, premium websites that help businesses attract customers,
+build trust and grow online.
+
+</p>
+
+<div class="buttons">
+
+<a href="#projects" class="primary-btn">
+
+View Projects
+
+</a>
+
+<a href="#contact" class="secondary-btn">
+
+Let's Talk
+
+</a>
+
+</div>
+
+<div class="socials">
+
+<a href="https://github.com/KarthikDhinesh" target="_blank">
+
+<i class="fab fa-github"></i>
+
+</a>
+
+<a href="https://instagram.com/dhinesh._.karthik25" target="_blank">
+
+<i class="fab fa-instagram"></i>
+
+</a>
+
+<a href="mailto:dhineshkarthik252007@gmail.com">
+
+<i class="fas fa-envelope"></i>
+
+</a>
+
+</div>
+
+</div>
+
+<div class="hero-right">
+
+<img src="assets/profile.jpg" alt="Dhinesh">
+
+</div>
+
+</section>
+
+<section class="stats">
+
+<div>
+
+<h2>10+</h2>
+
+<p>Projects</p>
+
+</div>
+
+<div>
+
+<h2>100%</h2>
+
+<p>Responsive</p>
+
+</div>
+
+<div>
+
+<h2>24/7</h2>
+
+<p>Support</p>
+
+</div>
+
+</section>
+
+<section id="about">
+
+<h2 class="section-title">
+
+About Me
+
+</h2>
+
+<p class="about-text">
+
+I'm a passionate Full Stack Developer from India.
+
+I build elegant, fast and modern websites for restaurants,
+businesses, startups and creators.
+
+I believe every business deserves a beautiful online presence.
+
+</p>
+
+</section>
+
+<section id="services">
+
+<h2 class="section-title">
+
+Services
+
+</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<i class="fas fa-laptop-code"></i>
+
+<h3>Business Website</h3>
+
+<p>Professional websites that generate customers.</p>
+
+</div>
+
+<div class="card">
+
+<i class="fas fa-utensils"></i>
+
+<h3>Restaurant Website</h3>
+
+<p>Beautiful online menus and ordering systems.</p>
+
+</div>
+
+<div class="card">
+
+<i class="fas fa-code"></i>
+
+<h3>Full Stack Development</h3>
+
+<p>Modern web applications using latest technologies.</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="projects">
+
+<h2 class="section-title">
+
+Featured Projects
+
+</h2>
+
+<div class="project">
+
+<h3>Night Out Restaurant Website</h3>
+
+<p>
+
+Modern restaurant website with ordering system,
+beautiful UI and responsive layout.
+
+</p>
+
+<a href="https://karthikdhinesh.github.io/Night-out/" target="_blank">
+
+Live Demo →
+
+</a>
+
+</div>
+
+</section>
+
+<section id="contact">
+
+<h2 class="section-title">
+
+Let's Work Together
+
+</h2>
+
+<p>
+
+📧 dhineshkarthik252007@gmail.com
+
+</p>
+
+<p>
+
+📞 +91 8428454030
+
+</p>
+
+<a class="primary-btn"
+
+href="mailto:dhineshkarthik252007@gmail.com">
+
+Contact Me
+
+</a>
+
+</section>
+
+<footer>
+
+<p>
+
+© 2026 DHINESH KARTHIK M
+
+</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
